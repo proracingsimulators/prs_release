@@ -1,11 +1,11 @@
 ﻿{
   "Name": "Pro Racing Software",
-  "Version": "0.11.9141.28407",
-  "ReleaseDate": "10/01/2025",
+  "Version": "0.11.9175.19751",
+  "ReleaseDate": "13/02/2025",
   "Author": "Pro Racing Simulators",
   "Description": "Software para ajustes, configurações e diagnóstico de periféricos e dispositivos nas plataformas de simulação da Pro Racing Simulators.",
-  "Beta": "https://github.com/proracingsimulators/prs_release/releases/download/v0.11.9141.28407-beta/SetupPrsApp.exe",
-  "Stable": "https://github.com/proracingsimulators/prs_release/releases/download/v0.11.9141.28407/SetupPrsApp.exe",
+  "Beta": "https://github.com/proracingsimulators/prs_release/releases/download/v0.11.9175.19751-beta/SetupPrsApp.exe",
+  "Stable": "https://github.com/proracingsimulators/prs_release/releases/download/v0.11.9175.19751/SetupPrsApp.exe",
   "Package": null,
   "ManifestVersion": "v2",
   "Changelog": [
@@ -138,10 +138,11 @@
       ]
     },
     {
-      "Version": "0.11.9141.28407",
-      "ReleaseDate": "10/01/2025",
+      "Version": "0.11.9175.19751",
+      "ReleaseDate": "13/02/2025",
       "Changes": [
-        "Adicionado tela para monitoramento do câmbio de marcha"
+        "Adicionado tela para monitoramento do câmbio de marcha",
+        "Adicionado projeto do cinto de segurança"
       ]
     }
   ]
